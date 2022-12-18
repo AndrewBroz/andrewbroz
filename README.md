@@ -1,6 +1,6 @@
 - Hi, I’m @AndrewBroz!
 - I’m primarily interested in music software, signal processing, natural language processing, & language models.
-- I’m looking to collaborate on anything that seems fun in those spaces or projects related to music, math, science, languages, or art.
+- I’m looking to collaborate on anything in those spaces or projects related to music, math, science, languages, or art.
 - You can reach me here, on Mastodon (https://macaw.social/@abroz), or on other social networks as @AndrewBroz.
 
 <!---
