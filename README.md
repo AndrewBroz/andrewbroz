@@ -1,5 +1,5 @@
 - Hi, I’m @AndrewBroz!
-- I currently work as an AI risk analyst at CRI, a not for profit.
+- I currently work as an AI risk analyst at CRI (https://civilizationresearchinstitute.org/).
 - My professional experience is in REST API development & full stack web tech (ex-Postman, ex-Twitter).
 - I’m primarily interested in music software, signal processing, natural language processing, & language models.
 - I’m looking to collaborate on anything in those spaces or projects related to music, math, science, languages, or art.
